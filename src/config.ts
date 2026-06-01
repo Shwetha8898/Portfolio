@@ -3,13 +3,14 @@ export const siteConfig = {
   title: "Aspiring Information Science undergraduate",
   description: "Portfolio website of Shwethashree S K",
   accentColor: "#1d4ed8",
+  photoUrl: "/profile.jpg",
   social: {
     email: "shwethashreesk@gmail.com",
     linkedin: "https://www.linkedin.com/in/shwethashree-sk",
     github: "https://github.com/Shwetha8898",
   },
   aboutMe:
-    "I'm a passionate about programming, web development, and AI. I enjoy turning ideas into functional applications",
+    "I'm a passionate about programming, web development, and AI. I enjoy turning ideas into functional applications and am always eager to learn new technologies.",
   skills: ["Java", "React", "Node.js", "Python", "SQL", "Git"],
   projects: [
     {
